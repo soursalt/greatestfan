@@ -113,6 +113,7 @@
     transition: opacity 0.15s;
     pointer-events: none;
     white-space: nowrap;
+    z-index: 100;
 }
 
 .search-button:hover .tooltip,
